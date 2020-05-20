@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DS1R3S/yelp-camp/issues"
   },
-  "homepage": "https://github.com/DS1R3S/yelp-camp#readme"
+  "homepage": "https://github.com/DS1R3S/yelp-camp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
