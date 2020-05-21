@@ -91,9 +91,7 @@ app.get('/campgrounds/:id', (req, res)=> {
 
 
 //
-app.get('/campgrounds/:id', (req, res) => {
-  res.send('')
-})
+
 
 
 
